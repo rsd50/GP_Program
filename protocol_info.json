@@ -1,0 +1,20 @@
+{
+    "TCP": {
+        "name": "TCP",
+        "description": "Transmission Control Protocol ensures reliable data transfer.",
+        "use_cases": "Used for web browsing, email, and file transfer.",
+        "diagram": "img/tcp_handshake.png"
+    },
+    "UDP": {
+        "name": "UDP",
+        "description": "User Datagram Protocol offers fast, connectionless data transfer.",
+        "use_cases": "Used for video streaming, gaming, and DNS.",
+        "diagram": "img/udp_flow.png"
+    },
+    "ICMP": {
+        "name": "ICMP",
+        "description": "Internet Control Message Protocol is used for error reporting and diagnostics.",
+        "use_cases": "Used for ping and traceroute utilities.",
+        "diagram": "img/icmp_ping.png"
+    }
+}
